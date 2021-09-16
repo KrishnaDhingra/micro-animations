@@ -24,7 +24,7 @@ function App() {
 
 
   return (
-    <div className="container flex w-full h-screen">
+    <div className="container flex w-screen h-screen">
       <div className="left_container flex flex-col justify-end gap-6 items-end w-1/2 h-full bg-blue-300 p-16">
         <div className="flex flex-col justify-start gap-6 items-start h-full w-80">
           <span className="text-gray-400 text-md font-normal w-full">Choose only the options that have been applied incorrectly</span>
