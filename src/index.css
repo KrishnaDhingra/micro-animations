@@ -10,6 +10,15 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+.container{
+    width: 100vw;
+}
+html, body{
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
 .left_container{
     background-color: #272727;
 }
